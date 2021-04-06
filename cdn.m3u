@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv17
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV世界地理
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=sjdl
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",CCTV兵器科技
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=bqkj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV卫生健康
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wsjk
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV央视台球
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=ystq
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",CCTV女性时尚
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=nxss
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",CCTV怀旧剧场
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hjjc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV文化精品
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=whjp
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV第一剧场
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=dyjc
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyjc
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV风云足球
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyzq
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",CCTV风云音乐
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fyyy
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",CCTV高尔夫网球
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=gefwq
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=zgjy1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CBN幸福剧场
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cbnxfjc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CBN幸福娱乐
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cbnxfyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CBN每日影院
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cbnmryy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CBN风尚生活
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cbnfssh
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=chcdzdy
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=chcjtyy
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=chcgqdy
+#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="上海",Dox剧场
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxjc
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="上海",Dox怡家
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyj
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="上海",Dox新知
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxxz
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="上海",Dox新艺
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxxy
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="地方",Dox映画
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Dox环映
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyx
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="上海",Dox英伦
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyl
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="上海",Dox雅趣
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hot精彩影视
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=jcyshd
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",SiTV全纪实
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=qjshd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV动漫秀场
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=dmxchd
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",SiTV劲爆体育
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=jbty
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海",SiTV幸福彩
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=xfchd
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",SiTV极速汽车
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=jsqc
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",SiTV欢笑剧场
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hxjchd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV法治天地
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cm
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",SiTV游戏风云
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=yxfy
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",SiTV生活时尚
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=shss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV都市剧场
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=dsjchd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV金色频道
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hqly
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",SiTV魅力足球
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=mlylhd
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",湖南快乐垂钓
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=klcd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贵阳1
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=gy1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",丹寨综合
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=dzzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凯里
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=klhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安顺新闻
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=asxwhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",普定
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=pd1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",晴隆 1080
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=ql
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",榕江1
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=rj1hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",毕节1
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=bj1hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",瓮安
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",白云
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=byhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",盘州 5M1080
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=pz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",赤水
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黎平综合
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=lphd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黔东南新闻综合
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=qdn1xwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",龙里
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=llxxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京家有购物
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=jygw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京家有购物
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=jygwhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",聚鲨环球精选
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hqgw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",卫视国际电影
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wsgjdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",卫视音乐
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=v
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=gjdl
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="港澳台",AXN
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=axn
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="港澳台",Cinemax
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cinemax
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",Discovery
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=ts
+#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="地方",DoxTV
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxtv
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hbo
+#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="港澳台",MTV
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=mtv
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="港澳台",NHK
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=bbc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",POCC
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=pocc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TV5
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=tv5

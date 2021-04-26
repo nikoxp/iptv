@@ -114,7 +114,7 @@ http://39.134.185.235/PLTV/88888888/224/3221226666/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品大剧
 http://39.134.185.235/PLTV/88888888/224/3221226668/index.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV惊悚悬疑
 http://39.134.185.235/PLTV/88888888/224/3221226656/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军旅剧场

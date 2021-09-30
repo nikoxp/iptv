@@ -48,15 +48,15 @@ http://39.134.185.235/PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://39.134.185.235/PLTV/88888888/224/3221226164/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E7%94%9F%E6%B4%BB.png" group-title="未分类",求索生活
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="" group-title="未分类",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6.png",求索科学
+#EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-logo="",求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="地方",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8  
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/imodeTV.png" group-title="生活纪实",imodeTV时尚频道
+#EXTINF:-1 tvg-logo="" group-title="生活纪实",imodeTV时尚频道
 https://juyunlive.juyun.tv/live/24950198.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭剧场
 http://39.134.185.235/PLTV/88888888/224/3221226642/index.m3u8
@@ -82,13 +82,13 @@ http://39.134.185.235/PLTV/88888888/224/3221226181/index.m3u8
 http://39.134.185.235/PLTV/88888888/224/3221226245/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BesTV4K
 http://39.134.185.235/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/4K%E8%8A%B1%E5%9B%AD.png" group-title="4K超清",4K花园娱乐台
+#EXTINF:-1 tvg-logo="" group-title="4K超清",4K花园娱乐台
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/4K%E8%8A%B1%E5%9B%AD.png" group-title="4K超清",4K花园电影台
+#EXTINF:-1 tvg-logo="" group-title="4K超清",4K花园电影台
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/4K%E8%8A%B1%E5%9B%AD.png" group-title="4K超清",4K花园生活台
+#EXTINF:-1 tvg-logo="" group-title="4K超清",4K花园生活台
 http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K超清",纯享4K
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="" group-title="4K超清",纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
@@ -189,13 +189,13 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="China",北京IPTV 淘电影
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/iptv%E9%87%8E%E5%A4%96.png" group-title="IPTV",IPTV野外
+#EXTINF:-1 tvg-logo="" group-title="IPTV",IPTV野外
 http://39.134.39.22:80/PLTV/88888888/224/3221226262/index.m3u8?icpid=88888888&from=26&hms_devid=685,672&online=1628522649&vqe=3
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/iptv%E9%87%8E%E5%A4%96.png" group-title="IPTV",IPTV法制
+#EXTINF:-1 tvg-logo="" group-title="IPTV",IPTV法制
 http://39.134.39.22:80/PLTV/88888888/224/3221226258/index.m3u8?icpid=88888888&from=26&hms_devid=685,672&online=1628522682&vqe=3
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/iptv%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="IPTV",IPTV谍战剧场
+#EXTINF:-1 tvg-logo="" group-title="IPTV",IPTV谍战剧场
 http://39.134.39.22:80/PLTV/88888888/224/3221226256/index.m3u8?icpid=88888888&from=26&hms_devid=685,672&online=1628522721&vqe=3
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/iptv%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.png" group-title="IPTV",IPTV相声小品
+#EXTINF:-1 tvg-logo="" group-title="IPTV",IPTV相声小品
 http://39.134.39.32:80/PLTV/88888888/224/3221226260/index.m3u8?icpid=88888888&from=26&hms_devid=685,680&online=1628522758&vqe=3
 
 
@@ -205,7 +205,7 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",CNC中文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="香港",国家地理野生频道[1920*1080]
 http://46.149.191.219:9109/play/a005
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="香港",动物星球[1280*720]

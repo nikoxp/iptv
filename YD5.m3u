@@ -221,12 +221,37 @@ rtmp://161.202.204.248/sat/tv071
 rtmp://59.124.75.153/sat/tv421
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TVBS·新闻台
 rtmp://161.202.204.248/sat/tv551
-#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="海外",纬来日本
 rtmp://161.202.204.248:1935/sat/tv521
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="Japan",NHK Chinese Vision HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="海外",NHK Chinese Vision HD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="港澳台",BBC World News
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="海外",BBC World News
 http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人大陸台
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人亞太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人美東台
+https://live.ntdimg.com/live400/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人美西台
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人加東台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人加西台
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人舊金山台
+https://live.ntdimg.com/sflive990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人休斯頓台
+https://live.ntdimg.com/htlive480/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MTV Spankin\' New  
@@ -251,7 +276,7 @@ http://39.134.185.235/PLTV/88888888/224/3221226837/index.m3u8
 http://39.134.185.235/PLTV/88888888/224/3221226120/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Y+频道 
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" group-title="Japan",NHK华语视界 (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" group-title="海外",NHK华语视界 (720p)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品纪录
 http://39.134.185.235/PLTV/88888888/224/3221226763/index.m3u8
@@ -623,3 +648,451 @@ http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视轮播",经典港片
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 全国风景总览
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 北京-南宫温泉休闲度假区
+http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 北京-水立方
+http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 北京-黄花城水长城01
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 北京-黄花城水长城02
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 北京-黄花城水长城03
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 北京-黄花城水长城04
+https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 北京-八达岭长城南七楼
+http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 北京-中央电视塔东
+http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 天津-天津之眼
+https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 天津-天津海河
+https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山西-悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 辽宁-沈阳金廊
+https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 黑龙江-雪乡梦幻家园
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江苏-无锡鼋头渚长春桥
+https://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8?BR=md&region=beijing
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江苏-无锡鼋头渚赏樱阁
+https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江苏-南京牛首山
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江苏-南京玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江苏-徐州云龙湖观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江苏-徐州云龙湖观景台南
+https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江苏-兴化千垛景区
+https://mlivecncc.v.wscdns.com/mlive/mlive_djy02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-云栖小镇
+https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-千岛湖
+https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-普陀山
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-丽水仙都风景区
+https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-乌镇蓝印花布
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-乌镇全景
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-乌镇西市河
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 浙江-乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-宏村月沼
+https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-西递半山亭
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黟县芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黄山
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黄山始信新道
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黄山梦笔生花
+https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黄山光明顶
+https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-九华山拜经台
+https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-九华山
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 安徽-九华山花台
+https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 福建-厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 福建-武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 福建-宁德太姥山景区
+https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 福建-漳州六鳌翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 福建-醉美沙滩翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江西-婺源江岭2号观景台
+https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江西-婺源江岭1号观景台
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 江西-龙虎山-中间水泡
+https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-泰山
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-泰山主峰
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-瞻鲁台
+https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-玉皇顶西
+https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-玉皇顶东
+https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-太平岭
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-扇子崖
+https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-南天门
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-开山
+https://gcalic.v.myalicdn.com/gc/hkts05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-经石峪
+https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-碧霞祠
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-白云亭悬崖
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-拱北日出
+https://gcalic.v.myalicdn.com/gc/hkts01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-泰山天街
+https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 山东-泰山大观峰
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 河南-郑东新区千玺广场
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 河南-少林寺广场
+https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 河南-云台山小寨沟
+https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 河南-云台山百家岩
+https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 河南-云台山红石峡
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 河南-云台山茱萸峰
+https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 河南-八里沟桃花湾瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 河南-八里沟天界山玻璃栈道
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖北-武汉黄鹤楼
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖北-龙王庙
+https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖北-武汉长江大桥
+https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖北-金丝猴01
+https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-天门山天门洞
+https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-天门山天空步道
+https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-天门山西线玻璃栈道
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-天门山云梦仙顶
+https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-十八洞村
+https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-凤凰古城南华山
+https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-凤凰古城东关门
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-张家界水绕四门
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-张家界将军列队
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-张家界迷魂台
+https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 湖南-宝峰湖
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 广东-东莞中心广场
+https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 广东-深圳世界之窗
+https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wx2.sinaimg.cn/thumb180/7f791501ly1fwgrnmr9haj20kr0krt9n.jpg" group-title="直播中国", 广东-丹霞山丹梯铁锁
+https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰青青
+http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰妃妃
+http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰娅祥
+http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰瑞瑞
+http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰英英
+http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰壹壹玖玖
+http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰水秀
+http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰神树萍①
+http://gcalic.v.myalicdn.com/gc/xiongmao25_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰神树坪②
+http://gcalic.v.myalicdn.com/gc/xiongmao26_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰神树坪③
+http://gcalic.v.myalicdn.com/gc/xiongmao22_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 怡然②
+http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地幼年园①
+http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地幼年园②
+http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地母子园①
+http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地母子园②
+http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地幼儿园①
+http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地幼儿园②
+http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地成年园①
+http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地成年园②
+http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地别墅①
+http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地别墅①
+http://gccnchwc.v.cdn20.com/gc/xiongmao09_1.flv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 基地别墅②
+http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 核桃坪
+http://gcalic.v.myalicdn.com/gc/xiongmao19_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 卧龙臭水
+http://gcalic.v.myalicdn.com/gc/xiongmao17_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 大丰麋鹿
+http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 白马雪山
+http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 成都高清
+http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="熊猫频道", 都江堰高清
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025486781.jpg" group-title="中国广播", 中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" group-title="中国广播", 经济之声
+http://ngcdn001.cnr.cn/live/jjzs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="中国广播", 音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" group-title="中国广播", 经典音乐广播
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025614670.jpg" group-title="中国广播", 台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025635405.jpg" group-title="中国广播", 神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.png" group-title="中国广播", 大湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025662260.jpg" group-title="中国广播", 香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411026604061.jpg" group-title="中国广播", 民族之声
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025674178.jpg" group-title="中国广播", 文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191015/1571132054820.png" group-title="中国广播", 阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191101/1572586139091.jpg" group-title="中国广播", 中国交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.radio.cn/img/default/2015/1/19/1421636782910.jpg" group-title="中国广播", 中国乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439531060.png" group-title="中国广播", CRI Hit FM FM88.7
+http://sk.cri.cn/887.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg" group-title="中国广播", CRI 南海之声
+http://sk.cri.cn/nhzs.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439525359.png" group-title="中国广播", CRI 轻松调频 FM91.5
+http://sk.cri.cn/915.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200306/1583464064428.jpg" group-title="中国广播", CRI 环球资讯广播 FM90.5
+http://sk.cri.cn/905.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200506/1588757318420.jpg" group-title="中国广播", 英语资讯广播 China Plus Radio
+http://cnlive.cnr.cn/hls/yyzxgb.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pic.qingting.fm/2013/channel_logo/4995.jpg" group-title="中国广播", CRI 中文环球广播
+http://sk.cri.cn/hyhq.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国广播", CRI 海峡飞虹
+http://sk.cri.cn/hxfh.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.feigeradio.com/upload/2018/01/374.jpg" group-title="中国广播", CRI NEWS Plus AM846
+http://sk.cri.cn/am846.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.feigeradio.com/upload/2018/01/374.jpg" group-title="中国广播", CRI NEWS Plus AM1008
+http://sk.cri.cn/am1008.m3u8

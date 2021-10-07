@@ -95,88 +95,89 @@ http://39.134.185.235/PLTV/88888888/224/3221226755/index.m3u8
 http://39.134.185.235/PLTV/88888888/224/3221226654/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电竞
 http://39.134.185.235/PLTV/88888888/224/3221226724/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱科幻 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱科幻 
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱探索
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱探索
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱旅行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱旅行
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱科学
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱科学
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hot探索纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",Hot探索纪录
 http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6650" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="地方",Hot欧美影院
 http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱喜剧 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱喜剧 
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱浪漫 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱浪漫 
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱院线 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱院线 
 http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱悬疑
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱世界
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱奇谈
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱奇谈
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱猎奇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱猎奇
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hot风尚音乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",Hot风尚音乐
 http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱美食
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱美食
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hot高清娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",Hot高清娱乐
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV都市剧场 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",SiTV都市剧场 
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱动漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱动漫
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",iHot爱历史
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="地方",iHot爱历史
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱娱乐
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱家庭
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱家庭
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱幼教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱幼教
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱怀旧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱怀旧
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱时尚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱时尚
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱江湖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱江湖
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱体育
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱军武
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱军武
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱玩具
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱玩具
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱电竞
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱经典
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱解密
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱解密
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱谍战
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱谍战
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱赛车
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱赛车
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱都市
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",iHot爱青春
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",iHot爱青春
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hot亚洲影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",Hot亚洲影院
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6639" tvg-name="少儿动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" group-title="地方",Hot少儿动漫
+#EXTINF:-1 tvg-id="6639" tvg-name="少儿动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" group-title="iHot",Hot少儿动漫
 http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hot漫游世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",Hot漫游世界
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hot炫动3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",Hot炫动3D
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hot电子竞技
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHot",Hot电子竞技
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="地方",Hot精品剧场
+#EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="iHot",Hot精品剧场
 http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="China",北京IPTV 4K超高清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="China",北京IPTV 淘BABY
@@ -227,6 +228,9 @@ rtmp://161.202.204.248:1935/sat/tv521
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="海外",BBC World News
 http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="海外", Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人大陸台
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8

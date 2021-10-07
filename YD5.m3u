@@ -49,13 +49,13 @@ http://39.134.185.235/PLTV/88888888/224/3221226144/index.m3u8
 http://39.134.185.235/PLTV/88888888/224/3221226164/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字付费",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="地方",求索科学
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="数字付费",求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="数字付费",求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="数字付费",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="生活纪实",imodeTV时尚频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字付费",imodeTV时尚频道
 https://juyunlive.juyun.tv/live/24950198.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字付费",家庭剧场
 http://39.134.185.235/PLTV/88888888/224/3221226642/index.m3u8
@@ -398,6 +398,13 @@ http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="海外", Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="海外",Discovery HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+
+#EXTINF:-1 group-title="海外",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="海外",Fashion TV Paris-Mumbai
+https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="海外", 新唐人大陸台
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8

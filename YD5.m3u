@@ -173,12 +173,6 @@ http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K超清",纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
-http://39.134.185.235/PLTV/88888888/224/3221226755/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
-http://39.134.185.235/PLTV/88888888/224/3221226654/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电竞
-http://39.134.185.235/PLTV/88888888/224/3221226724/index.m3u8
 
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://39.134.185.235/PLTV/88888888/224/3221226726/index.m3u8
@@ -259,6 +253,12 @@ http://39.134.185.235/PLTV/88888888/224/3221226128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",浙江移动热播 7M1080
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/01.m3u8?fmt=ts2hls
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV黑莓电影
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV黑莓动画
+http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV黑莓电竞
+http://183.207.248.71:80/cntv/live1/wmyx/wmyx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品纪录
 http://39.134.185.235/PLTV/88888888/224/3221226763/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV海外剧场
@@ -299,6 +299,12 @@ http://39.134.185.235/PLTV/88888888/224/3221226757/index.m3u8
 http://39.134.185.235/PLTV/88888888/224/3221226749/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV中国功夫
 http://39.134.185.235/PLTV/88888888/224/3221226759/index.m3u8
+#EXTINF:-1 tvg-id="newtvrbjx" tvg-logo="" group-title="NewTV",NewTV热播精选
+http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
+#EXTINF:-1 tvg-id="newtvjpzh" tvg-logo="" group-title="NewTV",NewTV精品综合
+http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
+#EXTINF:-1 tvg-id="newtvbj" tvg-logo="" group-title="NewTV",NewTV世界搏击
+http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
 
 #EXTINF:-1 group-title="CIBN",CIBN环球奇观
 http://iptv.inewya.com/qq494937337/others/cibn.php?id=17

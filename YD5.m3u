@@ -199,8 +199,6 @@ http://39.134.185.235/PLTV/88888888/224/3221226829/index.m3u8
 http://39.134.185.235/PLTV/88888888/224/3221226819/index.m3u8
 #EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="地方",车迷频道
 http://39.134.185.235/PLTV/88888888/224/3221226837/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",音乐
-http://39.134.185.235/PLTV/88888888/224/3221226120/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",Y+频道 
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
